@@ -1,7 +1,7 @@
 ## Pós-Graduação em Data Science: 
 ### Previsão de Séries Temporais com a Biblioteca Prophet! 🔮 ⏳
 
-Notebooks 📓
+### Notebooks 📓
 
 - [Aula 1 - Conhecendo o Dataset](https://github.com/alura-tech/pos-datascience-time-series-forecasting/blob/main/Aula_1.ipynb)
 - [Aula 2 - Primeiras previsões](https://github.com/alura-tech/pos-datascience-time-series-forecasting/blob/main/Aula_2.ipynb)
@@ -10,7 +10,7 @@ Notebooks 📓
 - [Aula 5 - Validação e Métricas de Performance](https://github.com/alura-tech/pos-datascience-time-series-forecasting/blob/main/Aula_5.ipynb)
 - [Aula 6 - Hiperparâmetros e Gráficos interativos com Plotly](https://github.com/alura-tech/pos-datascience-time-series-forecasting/blob/main/Aula_6.ipynb)
 
-*Dados 🎲
+### Dados 🎲
 
 Os estão disponíveis no [Kaggle](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) e são provenientes do *Berkeley Earth Surface Temperature Study*, que combina 1,6 bilhão de relatórios de temperatura de 16 arquivos pré-existentes. 
 
@@ -23,5 +23,5 @@ Temos os seguintes datasets:
 
 *Neste módulo vamos usar o dataset: Global Average Land Temperature by Country*
 
-*Objetivo 🎯
+### Objetivo 🎯
 Prever as médias de temperatura da superfície do solo no Brasil nos próximos anos. 
