@@ -10,11 +10,11 @@ Notebooks 📓
 - [Aula 5 - Validação e Métricas de Performance](https://github.com/alura-tech/pos-datascience-time-series-forecasting/blob/main/Aula_5.ipynb)
 - [Aula 6 - Hiperparâmetros e Gráficos interativos com Plotly](https://github.com/alura-tech/pos-datascience-time-series-forecasting/blob/main/Aula_6.ipynb)
 
-Dados 
+*Dados 🎲
 
 Os estão disponíveis no [Kaggle](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) e são provenientes do *Berkeley Earth Surface Temperature Study*, que combina 1,6 bilhão de relatórios de temperatura de 16 arquivos pré-existentes. 
 
-🎲 Temos os seguintes datasets:
+Temos os seguintes datasets:
 *   Global Land and Ocean-and-Land Temperatures (GlobalTemperatures.csv)
 *   Global Average Land Temperature by Country (GlobalLandTemperaturesByCountry.csv)
 * Global Average Land Temperature by State (GlobalLandTemperaturesByState.csv)
@@ -23,4 +23,5 @@ Os estão disponíveis no [Kaggle](https://www.kaggle.com/berkeleyearth/climate-
 
 *Neste módulo vamos usar o dataset: Global Average Land Temperature by Country*
 
-🎯 **Nosso objetivo: prever as médias de temperatura no Brasil.**
+*Objetivo 🎯
+Prever as médias de temperatura da superfície do solo no Brasil nos próximos anos. 
