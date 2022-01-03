@@ -27,3 +27,6 @@ Temos os seguintes datasets:
 Prever as médias de temperatura da superfície do solo no Brasil nos próximos anos. 
 
 
+Vamos lá!!! 
+<p align="center"><img src='https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif'</p>
+	
