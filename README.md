@@ -28,5 +28,5 @@ Prever as médias de temperatura da superfície do solo no Brasil nos próximos 
 
 
 Vamos lá!!! 
-<p align="center"><img src='https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif'</p>
+<p align="left"><img src='https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif'</p>
 	
